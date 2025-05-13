@@ -1,4 +1,6 @@
-📊 ProManu Analytics Dashboard
+# 📊 ProManu Analytics Dashboard
+
+
 Case Study: Enhancing Manufacturing Efficiency Through Data-Driven Insights
 🔍 Project Overview
 This project showcases an end-to-end manufacturing data analysis using Power BI, aimed at uncovering key insights from production and employee datasets. As a data analyst at ProManu Analytics, you are tasked with exploring two distinct but interconnected datasets—Manufacturing Production Data and Employee Performance Metrics—to help improve operational efficiency, cost control, and employee productivity.
